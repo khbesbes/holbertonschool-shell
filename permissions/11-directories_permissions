@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod a+x-S_IFDIR permissions
