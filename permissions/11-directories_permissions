@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x -S_IFREG
+chmod -h a+x -S_IFREG
