@@ -1,2 +1,2 @@
 #!/bin/bash
-   chown hello  only_if guillaume vincent
+ chown --from hello:vincent guillaume
