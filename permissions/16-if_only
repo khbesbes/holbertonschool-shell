@@ -1,2 +1,2 @@
 #!/bin/bash
-chown--from= guillance hello:vincent 
+chown--from=guillance hello:vincent 
