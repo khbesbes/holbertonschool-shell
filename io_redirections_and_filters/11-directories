@@ -1,2 +1,2 @@
 #!/bin/bash
-find type-d -exec
+find type -d | wc numdirs
