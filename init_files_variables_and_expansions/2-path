@@ -1,2 +1,2 @@
 #!/bin/bash
-alias p="export PATH="$HOME/bin:$ACTION " 
+export PATH="$PATH/bin:/$action"
