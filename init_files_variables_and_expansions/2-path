@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=~/local/bin/action:$PATH
+PATH=~/usr/local/bin:$PATH
