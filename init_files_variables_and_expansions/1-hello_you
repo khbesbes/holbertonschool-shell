@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $UESR "hello user"
+echo "user name $u"
