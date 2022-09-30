@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=~/opt/bin:$action
+PATH=~/opt/bin/action:$PATH
