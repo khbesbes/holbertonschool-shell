@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -type o -empty -print 
+find . -empty | rev | -d '/' -f 1 | rev
